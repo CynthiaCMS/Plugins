@@ -3,5 +3,15 @@
         "id": "hlimg",
         "host": "NPM",
         "referrer": "@cynthiacms/hlimg-cynthia"
+    },
+  {
+        "id": "gfonts",
+        "host": "NPM",
+        "referrer": "@cynthiacms/gfonts"
+  },
+  {
+        "id": "git-pull",
+        "host": "NPM",
+        "referrer": "@cynthiacms/git-pull"
     }
 ]
