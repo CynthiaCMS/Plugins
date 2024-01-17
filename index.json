@@ -1,5 +1,10 @@
 [
   {
+    "id": "emoji",
+    "host": "NPM",
+    "referrer": "@cynthiacms/emoji"
+  },
+  {
     "id": "hlimg",
     "host": "NPM",
     "referrer": "@cynthiacms/hlimg-cynthia"
